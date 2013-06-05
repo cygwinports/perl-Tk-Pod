@@ -1,0 +1,10 @@
+CPAN_AUTHOR="srezic"
+inherit perl
+
+NAME="perl-Tk-Pod"
+VERSION=0.9941
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl/Tk Pod viewer"
+DESCRIPTION="This Perl module provides a graphical user interface for viewing
+and browsing perl's Pod documentation."
