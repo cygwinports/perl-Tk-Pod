@@ -2,7 +2,7 @@ CPAN_AUTHOR="srezic"
 inherit perl
 
 NAME="perl-Tk-Pod"
-VERSION=0.9942
+VERSION=0.9943
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl/Tk Pod viewer"
